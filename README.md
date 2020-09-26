@@ -7,13 +7,16 @@ A fearless ninja travels through a graveyard infested with zombies in the dead o
 The game mechanics are fairly complete.
 
 TODO:
--adding different levels to it or design a single level with a maze in it.\n
+-adding different levels to it or design a single level with a maze in it.
+
 -adding title and end screens
+
 -adding soundtracks
 
 Anyone who wants to contribute is always welcome :)
 
 # USEFUL LINKS
 Game Resources - https://opengameart.org/
+
 Tiled Map Editor - https://thorbjorn.itch.io/tiled?download
 
