@@ -16,7 +16,6 @@ TODO:
 Anyone who wants to contribute is always welcome :)
 
 # USEFUL LINKS
-Game Resources - https://opengameart.org/
-
+Game Resources - https://opengameart.org/<br />
 Tiled Map Editor - https://thorbjorn.itch.io/tiled?download
 
