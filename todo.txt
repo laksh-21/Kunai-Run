@@ -1,0 +1,6 @@
+1. Add more levels (currently planning on 10)
+2. Add a key or a rescue at the end of each level so you know why my character is rushing
+3. Add more things like Zombie Boss, Doors and stuff
+4. Add music and other sound effects
+5. Add an End screen and a Start screen
+6. Add a pause functionality -- DONE
