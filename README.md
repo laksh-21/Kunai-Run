@@ -6,6 +6,9 @@ A fearless ninja travels through a graveyard infested with zombies in the dead o
 
 The game mechanics are fairly complete.
 
+# Screenshot
+<img src="/Screenshot.png"></img>
+
 TODO:
 -adding different levels to it or design a single level with a maze in it.<br/>
 -adding title and end screens<br/>
